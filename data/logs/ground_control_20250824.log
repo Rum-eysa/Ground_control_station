@@ -1,0 +1,831 @@
+2025-08-24 11:23:59,394 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:26:44,773 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:26:45,086 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:26:45,091 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:26:45,091 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:26:45,091 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:27:10,370 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:27:10,501 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:27:10,503 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:27:10,506 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:27:10,507 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:29:22,770 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:29:22,913 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:29:22,916 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:29:22,916 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:29:22,920 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:31:54,431 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:31:54,584 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:31:54,586 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:31:54,587 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:31:54,590 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:33:35,478 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:33:35,622 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:33:35,623 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:33:35,625 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:33:35,626 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:34:03,945 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:34:04,184 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:34:04,186 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:34:04,186 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:34:04,186 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:38:51,611 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:38:51,748 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:38:51,749 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:38:51,750 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:38:51,751 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:51:53,325 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:51:53,507 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:51:53,542 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:51:53,544 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:51:53,544 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:52:51,763 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:52:51,876 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:52:51,885 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:52:51,886 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:52:51,888 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:54:30,300 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:54:30,414 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:54:30,416 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:54:30,416 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:54:30,416 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:58:01,116 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:58:01,259 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:58:01,261 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:58:01,262 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:58:01,263 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 11:59:20,837 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 11:59:20,987 - core.config_manager - INFO - Konfigürasyon yüklendi: settings
+2025-08-24 11:59:20,987 - core.config_manager - INFO - Konfigürasyon yüklendi: devices
+2025-08-24 11:59:20,991 - core.config_manager - INFO - Konfigürasyon yüklendi: camera_config
+2025-08-24 11:59:20,991 - core.config_manager - INFO - Konfigürasyon yüklendi: network_config
+2025-08-24 13:22:01,481 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 13:58:11,476 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 13:58:11,716 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 13:58:11,716 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 13:58:11,719 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-24 13:58:11,719 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-24 13:58:13,618 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 13:58:13,618 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 13:58:13,621 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 13:58:13,621 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 13:58:16,539 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 13:58:16,539 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 13:58:16,634 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 13:58:16,634 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 13:58:16,656 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 13:58:16,656 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 13:58:16,764 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 13:58:16,764 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 13:58:16,767 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 13:58:16,767 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 13:58:16,774 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 13:58:16,774 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 13:58:37,644 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 13:58:37,644 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 13:58:37,644 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 13:58:37,644 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 13:58:40,576 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 13:58:40,576 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 13:58:40,653 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 13:58:40,653 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 13:58:40,669 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 13:58:40,669 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 13:58:40,782 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 13:58:40,782 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 13:58:40,798 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 13:58:40,798 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 13:58:40,798 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 13:58:40,798 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 13:59:40,771 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 13:59:40,771 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 13:59:40,771 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 13:59:40,771 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 13:59:43,754 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 13:59:43,754 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 13:59:43,892 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 13:59:43,892 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 13:59:43,906 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 13:59:43,906 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 13:59:43,996 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 13:59:43,996 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 13:59:44,013 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 13:59:44,014 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 13:59:44,013 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 13:59:44,014 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 14:00:01,467 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 14:00:01,467 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 14:00:01,548 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 14:00:01,548 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 14:00:01,638 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 14:00:01,638 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 14:00:01,890 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 14:00:01,890 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 14:00:01,902 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 14:00:01,902 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 14:00:26,665 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 14:00:26,665 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 14:00:26,746 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 14:00:26,746 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 14:00:26,831 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 14:00:26,831 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 14:00:26,976 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 14:00:26,976 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 14:00:26,979 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 14:00:26,979 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 14:01:28,946 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 14:01:28,946 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 14:01:29,060 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 14:01:29,060 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 14:01:29,146 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 14:01:29,146 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 14:01:29,290 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 14:01:29,290 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 14:01:29,290 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 14:01:29,290 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:46:59,280 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 21:46:59,427 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 21:46:59,427 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 21:46:59,430 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-24 21:46:59,430 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-24 21:47:01,198 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:01,198 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:01,198 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:01,198 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:04,760 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:04,760 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:04,760 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:04,760 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:18,227 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:18,227 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:18,227 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:18,227 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:33,803 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:33,803 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:33,803 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:33,803 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:44,392 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:44,392 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:47:44,392 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:47:44,392 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:48:45,652 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:48:45,652 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:48:45,731 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:48:45,731 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:48:48,009 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:48:48,009 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:48:49,167 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:48:49,167 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:48:49,286 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:48:49,286 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:48:51,642 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:48:51,642 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:49:02,665 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:49:02,665 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:49:02,744 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:49:02,744 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:49:04,946 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:49:04,946 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:49:19,212 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:49:19,212 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:49:19,308 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:49:19,308 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:49:21,527 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:49:21,527 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:49:29,141 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:49:29,141 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:49:29,221 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:49:29,221 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:49:31,433 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:49:31,433 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:51:18,590 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:18,590 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:18,590 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:18,590 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:22,604 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:22,604 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:22,604 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:22,604 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:35,597 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:35,597 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:35,597 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:35,597 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:52,606 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:52,606 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:51:52,606 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:51:52,606 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:52:02,595 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:52:02,595 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-24 21:52:02,604 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:52:02,604 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:52:19,317 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:19,317 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:19,317 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:19,317 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:51,935 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:51,935 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:51,935 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:51,935 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:55,802 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:55,802 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:55,818 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:55,818 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:55,818 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:52:55,818 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:55,818 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:52:55,818 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:53:06,809 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:53:06,809 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:53:06,888 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:06,888 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:08,785 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:53:08,785 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:53:10,670 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:53:10,670 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:53:10,750 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:10,750 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:12,651 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:53:12,651 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:53:23,705 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:53:23,705 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:53:23,785 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:23,785 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:27,605 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:53:27,605 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:53:37,223 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:53:37,223 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:53:37,305 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:37,305 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:37,382 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:53:37,382 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:53:38,123 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:53:38,123 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:53:38,137 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:53:38,137 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:53:47,159 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:53:47,159 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:53:47,271 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:47,271 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:53:47,430 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:53:47,430 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:53:47,649 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:53:47,649 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:53:47,649 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:53:47,649 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:53:47,984 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:53:47,984 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 21:53:47,984 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:53:47,984 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 21:54:04,162 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:04,162 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:04,241 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:04,241 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:06,468 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:06,468 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:08,138 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:08,138 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:08,217 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:08,217 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:08,234 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:08,234 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:08,344 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:08,344 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:08,344 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:08,344 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:08,360 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:08,360 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:36,642 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:36,642 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:36,720 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:36,720 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:39,022 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:39,022 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:40,160 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:40,160 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:40,293 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:40,293 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:40,680 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:40,680 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:54:40,681 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:40,681 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:40,759 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:40,759 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:40,759 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:40,759 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:40,772 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:40,772 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:40,886 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:40,886 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:40,886 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:40,886 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:40,886 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:40,886 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:42,653 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:42,653 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:43,023 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:43,023 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:54:44,653 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:44,653 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:44,653 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:44,653 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:54:44,736 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:44,736 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:44,736 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:44,736 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:54:44,755 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:44,755 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:44,756 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:44,756 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:54:44,844 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:44,844 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:44,844 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:44,844 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:44,844 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:44,844 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:44,852 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:44,852 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:54:44,852 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:44,852 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:54:44,852 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:54:44,852 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:55:32,681 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:55:32,681 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:55:32,822 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:55:32,822 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:55:36,603 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 21:55:36,603 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 21:55:37,293 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:55:37,293 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 21:55:39,394 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:55:39,394 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 21:55:39,458 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:55:39,458 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:55:39,473 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:55:39,473 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:55:39,585 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:55:39,585 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 21:55:39,585 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:55:39,585 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:55:39,585 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 21:55:39,585 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 21:55:40,609 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 21:55:40,609 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 21:55:54,659 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:55:54,659 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:55:54,732 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:55:54,732 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:55:54,812 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:55:54,812 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:55:54,924 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:55:54,924 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:55:54,924 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:55:54,924 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:55:57,096 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 21:55:57,096 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,209 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,203 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:26,209 - paramiko.transport - ERROR - Socket exception: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı (10054)
+2025-08-24 21:59:42,790 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:59:42,790 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:59:42,860 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:59:42,860 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:59:42,950 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:59:42,950 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:59:43,098 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:59:43,098 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:59:43,098 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:59:43,098 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:59:45,639 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:59:45,639 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:59:45,756 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:59:45,756 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:59:45,838 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:59:45,838 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:59:45,958 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:59:45,958 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:59:46,535 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:59:46,535 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:59:47,156 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:59:47,156 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 21:59:47,239 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:59:47,239 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 21:59:47,318 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:59:47,318 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 21:59:47,430 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:59:47,430 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 21:59:47,430 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 21:59:47,430 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:00:37,161 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:00:37,161 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:01:10,524 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 22:01:10,735 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 22:01:10,735 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-24 22:01:10,737 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-24 22:01:10,737 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-24 22:01:12,230 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:12,230 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:12,230 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:12,230 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:15,291 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:15,291 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:15,363 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:15,363 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:15,379 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:15,379 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:15,493 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:15,493 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:15,493 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:15,493 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:15,509 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:15,509 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:31,998 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:31,998 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:31,998 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:31,998 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:32,567 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:32,567 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:32,645 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:32,645 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:32,661 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:32,661 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:32,757 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:32,757 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:32,757 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:32,757 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:32,965 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:32,965 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:33,029 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:33,029 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:33,029 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:33,029 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:33,109 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:33,109 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:33,187 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:33,187 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:33,187 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:33,187 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:33,299 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:33,299 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:33,299 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:33,299 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:33,299 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:33,299 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:37,697 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:37,697 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:01:37,709 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:37,709 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:01:37,789 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:37,789 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:01:37,852 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:37,852 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:01:37,868 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:37,868 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:01:37,980 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:37,980 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:01:37,980 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:37,980 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:01:37,980 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:01:37,980 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:02:44,389 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,389 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,389 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,389 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,389 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,389 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,477 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:02:44,477 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:03:49,856 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:49,856 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:49,864 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:49,864 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:53,042 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:53,042 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:53,122 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:03:53,122 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:03:53,138 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:03:53,138 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:03:53,250 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:03:53,250 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:03:53,250 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:03:53,250 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:03:53,250 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:03:53,250 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:03:57,793 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:57,793 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:57,793 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:57,793 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:57,967 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:57,967 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:58,031 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:03:58,031 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:03:58,047 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:03:58,047 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:03:58,302 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:03:58,302 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:03:58,302 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:03:58,302 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:03:58,302 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:03:58,302 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:03:58,556 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:58,556 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:58,556 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:58,556 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:58,619 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:58,619 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:58,686 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:03:58,686 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:03:58,701 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:03:58,701 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:03:58,786 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:03:58,786 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:03:58,789 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:03:58,789 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:03:58,789 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:03:58,789 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:03:59,730 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:59,730 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:03:59,730 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:59,730 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:03:59,943 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:03:59,943 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:00,016 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:00,016 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:00,016 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:00,016 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:00,403 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:00,403 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:00,403 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:00,403 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:00,403 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:00,403 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:08,641 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:08,641 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:08,643 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:08,643 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:09,135 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:09,135 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:09,246 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:09,246 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:09,250 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:09,250 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:09,366 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:09,366 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:09,368 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:09,368 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:09,368 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:09,368 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:09,469 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:09,469 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:09,469 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:09,469 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:09,549 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:09,549 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:09,629 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:09,629 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:09,643 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:09,643 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:09,739 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:09,739 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:09,739 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:09,739 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:09,739 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:09,739 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:11,026 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:11,026 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:11,026 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:11,026 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:11,282 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:11,282 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:11,361 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:11,361 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:11,377 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:11,377 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:11,473 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:11,473 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:11,491 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:11,491 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:11,491 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:11,491 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:15,390 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:15,390 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:04:15,390 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:15,390 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:04:15,499 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:15,499 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:04:15,576 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:15,576 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:04:15,596 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:15,596 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:04:15,688 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:15,688 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:04:15,688 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:15,688 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:04:15,688 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:04:15,688 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:05:04,435 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:05:04,435 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:05:04,435 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:05:04,435 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:05:07,498 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:05:07,498 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:05:07,578 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:07,578 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:07,596 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:07,596 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:07,689 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:05:07,689 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:05:07,689 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:05:07,689 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:05:07,768 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:05:07,768 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:05:37,659 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:37,659 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:37,739 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:37,739 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:37,819 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:37,819 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:37,947 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:37,947 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:38,218 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:38,218 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:42,793 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:42,793 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:42,968 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:42,968 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:43,158 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:43,158 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:43,253 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:43,253 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:43,279 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:43,279 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:43,336 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:43,336 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:43,418 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:43,418 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:43,529 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:43,529 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:44,017 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:44,017 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:44,017 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:44,017 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:45,167 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:45,167 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:45,247 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:45,247 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:45,405 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:45,405 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:45,517 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:45,517 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:48,733 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:48,733 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:54,142 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:54,142 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:54,158 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:54,158 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:54,213 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:54,213 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:54,238 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:54,238 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:54,298 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:54,298 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:54,317 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:54,317 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:54,412 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:54,412 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:54,412 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:54,412 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:54,428 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:54,428 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:54,428 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:54,428 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:56,269 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:56,269 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:05:56,335 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:56,335 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:05:56,431 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:56,431 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:05:56,543 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:56,543 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:05:56,543 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:05:56,543 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:06:00,662 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:06:00,662 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:06:00,742 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:00,742 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:00,885 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:00,885 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:01,012 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:06:01,012 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:06:01,012 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:06:01,012 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:06:06,236 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:06:06,236 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:06:06,252 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:06:06,252 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:06:09,336 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:06:09,336 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:06:09,416 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:09,416 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:09,432 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:09,432 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:09,537 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:06:09,537 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:06:09,539 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:06:09,539 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:06:09,539 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:06:09,539 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:06:18,559 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:06:18,559 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:06:18,559 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:06:18,559 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:06:21,467 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:06:21,467 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:06:21,546 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:21,546 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:21,770 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:21,770 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:21,865 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:06:21,865 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:06:21,865 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:06:21,865 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:06:22,797 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:06:22,797 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:06:52,153 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:06:52,153 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:06:52,232 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:52,232 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:06:52,311 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:52,311 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:06:52,407 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:06:52,407 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:06:56,538 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:06:56,538 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:07:57,167 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:07:57,167 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:07:57,251 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:07:57,251 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:08:01,031 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 22:08:01,031 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-24 22:08:06,640 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:08:06,640 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:08:06,719 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:08:06,719 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:08:06,814 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:08:06,814 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:08:06,926 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:08:06,926 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:08:07,833 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:08:07,833 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:09:56,245 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:09:56,245 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:09:56,245 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:09:56,245 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:09:59,172 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:09:59,172 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:09:59,252 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:09:59,252 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:09:59,277 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:09:59,277 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:09:59,363 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:09:59,363 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:09:59,363 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:09:59,363 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:09:59,363 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:09:59,363 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:10:28,594 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:10:28,594 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:11:44,172 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:11:44,172 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-24 22:11:44,259 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:11:44,259 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:11:44,420 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:11:44,420 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:11:44,548 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:11:44,548 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-24 22:11:44,564 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:11:44,564 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-24 22:27:12,153 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:27:12,153 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-24 22:27:12,153 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:27:12,153 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-24 22:27:15,157 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:27:15,157 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.2p1)
+2025-08-24 22:27:15,275 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:27:15,275 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-24 22:27:15,296 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:27:15,296 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-24 22:27:15,385 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:27:15,385 - core.auto_discovery - INFO - Raspberry Pi bulundu: 192.168.68.106 (raspberrypi)
+2025-08-24 22:27:15,385 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:27:15,385 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:27:15,385 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-24 22:27:15,385 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.106', 'hostname': 'raspberrypi', 'username': 'rumeysa', 'auth_verified': True, 'type': 'raspberry'}
+2025-08-24 22:31:32,103 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı
+2025-08-24 22:31:32,103 - core.auto_discovery - WARNING - Jetson Nano (ika) bulunamadı

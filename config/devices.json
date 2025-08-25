@@ -1,0 +1,65 @@
+{
+  "devices": {
+    "raspberry_pi": {
+      "name": "Raspberry Pi Camera",
+      "type": "raspberry_pi",
+      "connection": {
+        "host": "raspberrypi",
+        "ip": "192.168.68.100",
+        "port": 22,
+        "username": "rumeysa",
+        "password": "her",
+        "auth_method": "password",
+        "ssh_key_path": null
+      },
+      "camera": {
+        "stream_port": 5000,
+        "control_port": 5001,
+        "resolution": [1920, 1080],
+        "fps": 30
+      },
+      "services": {
+        "camera_server": "camera_server.py",
+        "auto_start": true,
+        "health_check_port": 5002
+      }
+    },
+    "jetson_nano": {
+      "name": "Jetson Nano (ika) ZED Camera",
+      "type": "jetson",
+      "connection": {
+        "host": "ika",
+        "ip": "192.168.68.101",
+        "port": 22,
+        "username": "ika",
+        "password": "0123456789",
+        "auth_method": "password",
+        "ssh_key_path": null
+      },
+      "camera": {
+        "stream_port": 6000,
+        "control_port": 6001,
+        "resolution": [2208, 1242],
+        "fps": 30,
+        "camera_type": "zed"
+      },
+      "services": {
+        "camera_server": "zed_server.py",
+        "auto_start": true,
+        "health_check_port": 6002
+      }
+    }
+  },
+  "connection_settings": {
+    "timeout": 30,
+    "retry_attempts": 3,
+    "retry_delay": 5,
+    "keep_alive_interval": 30,
+    "compression": true
+  },
+  "security": {
+    "encrypt_passwords": true,
+    "ssh_key_preference": true,
+    "known_hosts_check": false
+  }
+}

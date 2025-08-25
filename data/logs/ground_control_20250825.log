@@ -1,0 +1,46 @@
+2025-08-25 12:30:10,564 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-25 12:30:10,947 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-25 12:30:10,947 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-25 12:30:10,947 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-25 12:30:10,947 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-25 12:30:12,693 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:30:12,693 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:30:12,693 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:30:12,693 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:30:28,999 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:30:28,999 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:30:28,999 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:30:28,999 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:31:03,063 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:31:03,063 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:31:03,065 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:31:03,065 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:31:17,284 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-25 12:31:17,429 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-25 12:31:17,429 - root - INFO - Ground Control Station logging sistemi başlatıldı
+2025-08-25 12:31:17,431 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-25 12:31:17,431 - root - ERROR - Cihazlar yüklenirken hata: 'ConfigManager' object has no attribute 'get_config'
+2025-08-25 12:31:18,562 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:31:18,562 - core.auto_discovery - INFO - Cihaz keşfi başlatılıyor: 192.168.68.0/24
+2025-08-25 12:31:18,564 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:31:18,564 - core.auto_discovery - INFO - Raspberry Pi aranıyor...
+2025-08-25 12:33:03,239 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-25 12:33:03,239 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-25 12:33:03,329 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-25 12:33:03,329 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-25 12:33:05,532 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-25 12:33:05,532 - paramiko.transport - INFO - Authentication (password) failed.
+2025-08-25 12:35:36,605 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-25 12:35:36,605 - core.auto_discovery - WARNING - Raspberry Pi bulunamadı
+2025-08-25 12:35:36,609 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-25 12:35:36,609 - core.auto_discovery - INFO - Jetson Nano (ika) aranıyor...
+2025-08-25 12:37:21,245 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-25 12:37:21,245 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-25 12:37:21,333 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-25 12:37:21,333 - paramiko.transport - INFO - Authentication (publickey) failed.
+2025-08-25 12:37:21,488 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-25 12:37:21,488 - paramiko.transport - INFO - Authentication (password) successful!
+2025-08-25 12:37:21,776 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-25 12:37:21,776 - core.auto_discovery - INFO - Jetson Nano bulundu: 192.168.68.103 (ika-desktop)
+2025-08-25 12:37:21,784 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
+2025-08-25 12:37:21,784 - root - INFO - Cihaz bulundu: {'ip': '192.168.68.103', 'hostname': 'ika-desktop', 'username': 'ika', 'auth_verified': True, 'type': 'jetson'}
